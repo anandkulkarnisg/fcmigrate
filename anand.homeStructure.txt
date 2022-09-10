@@ -1,0 +1,55 @@
+total 216
+lrwxrwxrwx.  1 anand anand     40 Jan 11  2020 localrepo -> /run/media/anand/Windows/os-common/repo/
+lrwxrwxrwx.  1 anand anand     29 Jan 11  2020 tools -> localrepo/coderepo/git/tools/
+lrwxrwxrwx.  1 anand anand     23 Jan 11  2020 git -> localrepo/coderepo/git/
+lrwxrwxrwx.  1 anand anand     29 Jan 11  2020 bitbucket -> localrepo/coderepo/bitbucket/
+lrwxrwxrwx.  1 anand anand     10 Jan 11  2020 repo -> localrepo/
+lrwxrwxrwx.  1 anand anand     14 Jan 11  2020 temp -> bitbucket/temp
+lrwxrwxrwx.  1 anand anand     47 Jan 11  2020 Downloads -> localrepo/fedora/users/anand/desktop/Downloads/
+lrwxrwxrwx.  1 anand anand     47 Jan 11  2020 Documents -> localrepo/fedora/users/anand/desktop/Documents/
+lrwxrwxrwx.  1 anand anand     47 Jan 11  2020 Templates -> localrepo/fedora/users/anand/desktop/Templates/
+lrwxrwxrwx.  1 anand anand     44 Jan 11  2020 Public -> localrepo/fedora/users/anand/desktop/Public/
+lrwxrwxrwx.  1 anand anand     44 Jan 11  2020 Videos -> localrepo/fedora/users/anand/desktop/Videos/
+lrwxrwxrwx.  1 anand anand     46 Jan 11  2020 Pictures -> localrepo/fedora/users/anand/desktop/Pictures/
+lrwxrwxrwx.  1 anand anand     43 Jan 11  2020 Music -> localrepo/fedora/users/anand/desktop/Music/
+lrwxrwxrwx.  1 anand anand     36 Jan 11  2020 coding -> localrepo/fedora/users/anand/coding/
+lrwxrwxrwx.  1 anand anand     42 Jan 11  2020 IDE-Projects -> localrepo/fedora/users/anand/IDE-Projects/
+lrwxrwxrwx.  1 anand anand     56 Jan 11  2020 CLionProjects -> localrepo/fedora/users/anand/IDE-Projects/CLionProjects/
+lrwxrwxrwx.  1 anand anand     50 Jan 11  2020 eclipse -> localrepo/fedora/users/anand/IDE-Projects/eclipse/
+lrwxrwxrwx.  1 anand anand     53 Jan 11  2020 CodeBlocks -> localrepo/fedora/users/anand/IDE-Projects/CodeBlocks/
+lrwxrwxrwx.  1 anand anand     59 Jan 11  2020 NetBeansProjects -> localrepo/fedora/users/anand/IDE-Projects/NetBeansProjects/
+lrwxrwxrwx.  1 anand anand     58 Jan 11  2020 PycharmProjects -> localrepo/fedora/users/anand/IDE-Projects/PycharmProjects/
+lrwxrwxrwx.  1 anand anand     13 Jan 11  2020 runqat -> coding/runqat
+lrwxrwxrwx.  1 anand anand     33 Jan 11  2020 tiddlywiki -> /home/anand/bitbucket/tiddlywiki/
+lrwxrwxrwx.  1 anand anand     13 Jan 11  2020 runq5000 -> coding/runq5k
+lrwxrwxrwx.  1 anand anand     13 Jan 11  2020 runq5001 -> coding/runq5k
+lrwxrwxrwx.  1 anand anand     15 Jan 11  2020 runq645002 -> coding/runq645k
+lrwxrwxrwx.  1 anand anand     15 Jan 11  2020 runq645003 -> coding/runq645k
+lrwxrwxrwx.  1 anand anand     15 Jan 11  2020 runq645020 -> coding/runq645k
+lrwxrwxrwx.  1 anand anand     48 Jan 11  2020 MySessions -> localrepo/fedora/users/anand/coderPadMysessions/
+lrwxrwxrwx.  1 anand anand     47 Mar 14  2020 vmware -> /run/media/anand/Windows/os-common/repo/vmware/
+lrwxrwxrwx.  1 anand anand     62 Mar 14  2020 largeCppTestDataFiles -> /run/media/anand/Windows/os-common/repo/largeCppTestDataFiles/
+lrwxrwxrwx.  1 anand anand     21 Mar 18  2020 ExpanDrive -> localrepo/ExpanDrive/
+lrwxrwxrwx.  1 anand anand     64 Mar 29  2020 eclipse-workspace-cdt -> localrepo/fedora/users/anand/IDE-Projects/eclipse-workspace-cdt/
+lrwxrwxrwx.  1 anand anand     65 Mar 29  2020 eclipse-workspace-java -> localrepo/fedora/users/anand/IDE-Projects/eclipse-workspace-java/
+lrwxrwxrwx.  1 anand anand     23 Apr  6  2020 todo -> /home/anand/.anand_todo
+drwxrwxr-x.  5 anand anand   4096 Jul  6  2020 sound-issue
+drwx------.  3 anand anand   4096 Jul 31  2020 Dropbox
+lrwxrwxrwx.  1 root  root      63 Aug 15  2020 Firefox_wallpaper.png -> bitbucket/fedoracustomsettings/wallpapers/Firefox_wallpaper.png
+drwxrwxr-x. 12 anand anand   4096 Sep  1  2020 studio
+drwxrwxr-x.  2 anand anand   4096 Sep 13  2020 megadrive
+drwxr-xr-x.  3 anand anand   4096 Feb 12  2021 Calibre Library
+drwxrwxr-x.  2 anand anand   4096 Mar  6  2022 apas
+drwxrwxr-x.  3 anand anand   4096 May 29 19:20 dublin-math-course-content
+drwxrwxr-x.  3 anand anand   4096 Jun  1 22:33 quantpie-resoures
+-rw-r--r--.  1 anand anand   1836 Aug  5 17:47 BluejeansHelper.log
+drwxr-xr-x.  2 anand anand   4096 Aug  6 11:41 CiscoSpark
+drwxr-xr-x.  3 anand anand   4096 Aug 22 22:09 snap
+drwxr-xr-x.  2 anand anand   4096 Aug 22 22:13 Desktop
+drwxr-xr-x.  7 anand anand   4096 Aug 30 21:54 oracleVirtualBox
+-rwxr-xr-x.  1 anand anand    653 Sep  8 22:30 dumpCurrentFedoraStatus
+-rw-rw-r--.  1 anand anand 138826 Sep  8 22:30 step1-current.rpmpkglist.txt
+-rw-rw-r--.  1 anand anand   1528 Sep  8 22:30 step2-custom.optpkglist.txt
+-rw-rw-r--.  1 anand anand      0 Sep  8 22:30 deepti.homeStructure.txt
+-rw-rw-r--.  1 anand anand      0 Sep  8 22:30 dhruv.homeStructure.txt
+-rw-rw-r--.  1 anand anand      0 Sep  8 22:30 anand.homeStructure.txt
