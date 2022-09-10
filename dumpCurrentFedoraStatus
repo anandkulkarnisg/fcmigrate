@@ -5,18 +5,21 @@
 # Synopsis : Creates a status of various things in current fedora installation that need to be considered in upgrade.
 
 # Step 1 : Dump all rpm packages installed to a file.
-rpm -qa|sort > step1-current.rpmpkglist.txt
+rpm -qa|sort > step1.current.rpmpkglist.txt
 
 # Step 2 : Dump a list of all installations in /opt area.
-ls -lrt /opt > step2-custom.optpkglist.txt
+ls -lrt /opt > step2.custom.optpkglist.txt
 
 # Step 3 : Dump structure of all user home folders.
 userIdList=$(ls -lrt /home/|grep -v "lost+found"|awk '{print $9}'|grep -v ^$|tr "\n" " ")
 for user in $userIdList
 do
   echo -e "The user is = " /home/$user
-  ls -lrt /home/$user > $user.homeStructure.txt
+  ls -lrt /home/$user > step3.$user.homeStructure.txt
 done
+ls -lrt /root > step3.root.homeStructure.txt
 
 # Step 4 : Dump custom service, log folders and other structures in place at /var/log
-ls -lrt /var/log > step3.varlogstructure.txt
+ls -lrt /var/log > step4.varlogstructure.txt
+
+# Step 5 : Take a backup of services specifically set by user. [customrun and rclone(one drive mount)]
